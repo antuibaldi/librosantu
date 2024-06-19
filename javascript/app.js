@@ -313,30 +313,64 @@ const databaselibrosJSON= [
     "_id": 45,
     "nombre":"El Aguila y El Mono",
     "imagen":"img/Libro45.png",
-    "enlace":""
+    "enlace":"https://mega.nz/file/U9QGXSrQ#-mUxPimREiz6kOr6xIZMfaJWIPj3i49oApRSExYCX5k"
+  }
+  
+  ,
+  { 
+    "_id": 46,
+    "nombre":"El Paisaje Urbano",
+    "imagen":"img/Libro46.png",
+    "enlace":"https://mega.nz/file/19BwjbqR#iZcamg7hyIhwJX1zrrEu7fIZQmITXv0_KUGQmO7qBhY"
+  }
+  
+  ,
+  { 
+    "_id": 47,
+    "nombre":"Como hacer una tesis de Humberto Eco",
+    "imagen":"img/Libro47.png",
+    "enlace":"https://mega.nz/file/BkhUGLKB#iMshIbUyDryHfxMpMeSyJB8bmm9eEhwp3OHQ7kynOuk"
+  }
+
+  
+  ,
+  { 
+    "_id": 48,
+    "nombre":"Emily Dickson 50 Poemas",
+    "imagen":"img/Libro48.png",
+    "enlace":"https://mega.nz/file/ZoZ0SS6C#JPTDs9_sAqUP3d1gJEw0KlFvyUj2G1SG-8t21QXiaiI"
+  }
+  
+  ,
+  { 
+    "_id": 49,
+    "nombre":"Trilce Cesar Vallejo",
+    "imagen":"img/Libro49.png",
+    "enlace":"https://mega.nz/file/g9YwRQoB#pxSStaFErRImORwzdmCIaUdqDgAafBOPxbEpfBxUUpk"
+  }
+  ,
+  { 
+    "_id": 50,
+    "nombre":"Relatos Reunidos Cesar Aira",
+    "imagen":"img/Libro50.png",
+    "enlace":"https://mega.nz/file/dkhxGTrS#lFD6XWlFpZmzUXP_mCcU0hBd_dzQvXdR7e3Ow8jcdFM"
   }
   /*
   ,
   { 
-    "_id": 38,
+    "_id": 40,
     "nombre":"",
-    "imagen":"../img/Libro25.png",
-    "enlace":""
-  }
-  ,
-  { 
-    "_id": 39,
-    "nombre":"",
-    "imagen":"../img/Libro25.png",
+    "imagen":"img/Libro25.png",
     "enlace":""
   }
   ,
   { 
     "_id": 40,
     "nombre":"",
-    "imagen":"../img/Libro25.png",
+    "imagen":"img/Libro25.png",
     "enlace":""
   }
+
 
 
   
