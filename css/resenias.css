@@ -1,6 +1,7 @@
 .imagen-resenia{
     height: 10em;
-    border-radius: 10em;
+    display: block;
+    margin: auto;
 }
 
 
@@ -16,4 +17,10 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+}
+
+.nombre-resenia{
+    place-content: center;
+    display: grid;
+   
 }
