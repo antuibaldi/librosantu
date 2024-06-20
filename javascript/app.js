@@ -104,7 +104,7 @@ const databaselibrosJSON= [
   ,
   { 
     "_id": 16,
-    "nombre":"Tao",
+    "nombre":"Tao Te Ching",
     "imagen":"img/Libro16.png",
     "enlace":"https://mega.nz/file/4kgWjSrQ#_To9vMti7DUKZkstySBYbcbeDNcBxtuGsZ_KqzsN7FM"
   }
@@ -216,7 +216,7 @@ const databaselibrosJSON= [
   ,
   { 
     "_id": 32,
-    "nombre":"Sociedad dek Espectaculo",
+    "nombre":"Sociedad del Espectaculo",
     "imagen":"img/Libro32.png",
     "enlace":"https://mega.nz/file/ppIFTCKC#54KQoEDQ52PMG6nl76ZZpUvbh1hVWbV1388kr5TXG9E"
   }
