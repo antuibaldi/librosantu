@@ -401,21 +401,23 @@ const databaselibrosJSON= [
     "imagen":"img/Libro56.png",
     "enlace":"https://mega.nz/file/91wgRBhT#g6cCPJxBfmwncEjvg9X9X4mHJL5udTS87p7cjdJMGKw"
   }
+  
+  ,
+  { 
+    "_id": 57,
+    "nombre":"Sonichu Tomo 1",
+    "imagen":"img/Libro57.png",
+    "enlace":"https://mega.nz/file/A85wiCwB#GbLN-OqnFBpum83vBSCHSG7yeO8naqRdHcc_bs6t7nQ"
+  }
+
+  ,
+  { 
+    "_id": 58,
+    "nombre":"Domus Eco Wordl Ingles-Italiano",
+    "imagen":"img/Libro58.png",
+    "enlace":"https://mega.nz/file/IxImDQiI#kY2PPexHstyiy4Wq6Ks1MR5m0GWbVsb6IO5z8A0BdXk"
+  }
   /*
-  ,
-  { 
-    "_id": 40,
-    "nombre":"",
-    "imagen":"img/Libro25.png",
-    "enlace":""
-  }
-  ,
-  { 
-    "_id": 40,
-    "nombre":"",
-    "imagen":"img/Libro25.png",
-    "enlace":""
-  }
   ,
   { 
     "_id": 40,
