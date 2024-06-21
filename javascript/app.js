@@ -355,6 +355,52 @@ const databaselibrosJSON= [
     "imagen":"img/Libro50.png",
     "enlace":"https://mega.nz/file/dkhxGTrS#lFD6XWlFpZmzUXP_mCcU0hBd_dzQvXdR7e3Ow8jcdFM"
   }
+  
+  ,
+  { 
+    "_id": 51,
+    "nombre":"Las Mil y Una Noches",
+    "imagen":"img/Libro51.png",
+    "enlace":"https://mega.nz/file/41wAGSLS#3ZSLB_tRX7VQzFT1IHSUJIjv1SLAiNyfIHKmCuvujzA"
+  }
+  
+  ,
+  { 
+    "_id": 52,
+    "nombre":"Ciudades Invisibles de Italo Calvino",
+    "imagen":"img/Libro52.png",
+    "enlace":"https://mega.nz/file/VhAxFDRA#lAemiTRkQ1lu1PV2DhFhUc9WXYfWKhkpqgR-G1hED64"
+  }
+  ,
+  { 
+    "_id": 53,
+    "nombre":"Ciudad Colague Rowe Collins",
+    "imagen":"img/Libro53.png",
+    "enlace":"https://mega.nz/file/k1QGkazS#SfrJKELp42YwMDR2sNil_OM1Mto4rYEXDbA9IRpKNqk"
+  }
+  
+  ,
+  { 
+    "_id": 54,
+    "nombre":"El Croquis Aires Mateus",
+    "imagen":"img/Libro54.png",
+    "enlace":"https://mega.nz/file/lxwglTgB#-71n8oI5I7Qi40H31BjqVeaOLPLDTn4qQU2K5Fs3kJc"
+  }
+  ,
+  { 
+    "_id": 55,
+    "nombre":"El Croquis SANNA",
+    "imagen":"img/Libro55.png",
+    "enlace":"https://mega.nz/file/Ygom0KwQ#H0KKWWzf30HiDwRhAo_bZrHOMoL4DebZ4cRy9PItTZ0"
+  }
+  
+  ,
+  { 
+    "_id": 56,
+    "nombre":"EL Hombre Mediocre",
+    "imagen":"img/Libro56.png",
+    "enlace":"https://mega.nz/file/91wgRBhT#g6cCPJxBfmwncEjvg9X9X4mHJL5udTS87p7cjdJMGKw"
+  }
   /*
   ,
   { 
@@ -370,6 +416,28 @@ const databaselibrosJSON= [
     "imagen":"img/Libro25.png",
     "enlace":""
   }
+  ,
+  { 
+    "_id": 40,
+    "nombre":"",
+    "imagen":"img/Libro25.png",
+    "enlace":""
+  }
+  ,
+  { 
+    "_id": 40,
+    "nombre":"",
+    "imagen":"img/Libro25.png",
+    "enlace":""
+  }
+  ,
+  { 
+    "_id": 40,
+    "nombre":"",
+    "imagen":"img/Libro25.png",
+    "enlace":""
+  }
+
 
 
 
