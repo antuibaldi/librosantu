@@ -417,32 +417,198 @@ const databaselibrosJSON= [
     "imagen":"img/Libro58.png",
     "enlace":"https://mega.nz/file/IxImDQiI#kY2PPexHstyiy4Wq6Ks1MR5m0GWbVsb6IO5z8A0BdXk"
   }
-  /*
-  ,
-  { 
-    "_id": 40,
-    "nombre":"",
-    "imagen":"img/Libro25.png",
-    "enlace":""
-  }
-  ,
-  { 
-    "_id": 40,
-    "nombre":"",
-    "imagen":"img/Libro25.png",
-    "enlace":""
-  }
-  ,
-  { 
-    "_id": 40,
-    "nombre":"",
-    "imagen":"img/Libro25.png",
-    "enlace":""
-  }
-
-
-
-
   
+  ,
+  { 
+    "_id": 59,
+    "nombre":"Instalaciones Electricas",
+    "imagen":"img/Libro59.png",
+    "enlace":"https://mega.nz/file/dpZzwCYI#_BOaKDq7GMbmcXilHM5itaoM1AdeRGC2dRQCK8wojlE"
+  }
+  ,
+  { 
+    "_id": 60,
+    "nombre":"Instalaciones de Gas",
+    "imagen":"img/Libro60.png",
+    "enlace":"https://mega.nz/file/Y1oUxJba#vxLff4A_e85gZuGXf0IV1lRXw1BCPnJT-yPcmsZGTVY"
+  }
+  
+  ,
+  { 
+    "_id": 61,
+    "nombre":"Proyecto CRUD-Libro-de-programacion-WEB",
+    "imagen":"img/Libro61.png",
+    "enlace":"https://mega.nz/file/E45BQbLQ#Plz1svPALxTF6iHs-9seM8Z1FyG6dp3ncZGmYVrQ8s4"
+  }
+  
+,
+  { 
+    "_id": 62,
+    "nombre":"Hombres que ya no hacen sufir por Amor",
+    "imagen":"img/Libro62.png",
+    "enlace":"https://mega.nz/file/pkIhGTQJ#HRKpdx5KClwuNrPPIRSmU7rcedi9ZURhCceJkV8HZc0"
+  }
+  
+,
+  { 
+    "_id": 63,
+    "nombre":"Avatar la Leyenda de Angg Desequilibrio 1",
+    "imagen":"img/Libro63.png",
+    "enlace":"https://mega.nz/file/cw5HSbzB#LD7l_lHbZ5nSPjvdrm3zc9vxTXqQ-IEhNZAwRVJ11R0"
+  }
+,
+  { 
+    "_id": 64,
+    "nombre":"Avatar la Leyenda de Angg Desequilibrio 2",
+    "imagen":"img/Libro64.png",
+    "enlace":"https://mega.nz/file/Y4oBBBQR#gKza-pYbMu7ougMb6LIuI1O8n-D76oijzsZ2aJxlp5o"
+  }
+,
+  { 
+    "_id": 65,
+    "nombre":"Avatar la Leyenda de Angg Desequilibrio 3",
+    "imagen":"img/Libro65.png",
+    "enlace":"https://mega.nz/file/k1wXjDgY#YQiY6HkH9JE849GW6Me2K36lQdzKwfEUbvaSj5VW-1o"
+  }
+  
+,
+  { 
+    "_id": 66,
+    "nombre":"Avatar la Leyenda de Angg La Brecha Parte 1",
+    "imagen":"img/Libro66.png",
+    "enlace":"https://mega.nz/file/F1IBnQDT#dh6trCJpvIbpD4B-S24JF5ZT8EL0POzaMyvh7sRL04E"
+  }
+,
+  { 
+    "_id": 67,
+    "nombre":"Avatar la Leyenda de Angg La Brecha Parte 2",
+    "imagen":"img/Libro67.png",
+    "enlace":"https://mega.nz/file/o8pykDAT#ICy6bOjO_I56M6xmJuQ0599Xka7_rtXfnJ16kjOWVXM"
+  }
+,
+  { 
+    "_id": 68,
+    "nombre":"Avatar la Leyenda de Angg La Brecha Parte 3",
+    "imagen":"img/Libro68.png",
+    "enlace":"https://mega.nz/file/Z0QnhYhT#jGe0YCZsf-aOVloI4kSJy5OrkMI460kpoJMiaQ-L_tI"
+  }
+
+,
+  { 
+    "_id": 69,
+    "nombre":"Avatar la Leyenda de Angg La Busqueda Parte 1",
+    "imagen":"img/Libro69.png",
+    "enlace":"https://mega.nz/file/F5wi1bwL#7H115nlVQDqiRrGl2GRqfuNBU8zzOxQWnPv7NwaJhMI"
+  }
+,
+  { 
+    "_id": 70,
+    "nombre":"Avatar la Leyenda de Angg La Busqueda Parte 2",
+    "imagen":"img/Libro70.png",
+    "enlace":"https://mega.nz/file/Ehg2zZ7D#c6ydnIIzIB8LG5ECRjitacY2y15GGjEpxcx-Jd9Yx54"
+  }
+,
+  { 
+    "_id": 71,
+    "nombre":"Avatar la Leyenda de Angg La Busqueda Parte 3",
+    "imagen":"img/Libro71.png",
+    "enlace":"https://mega.nz/file/okpnXbyD#36ESzQd-N_Aa4N7QINUxaj4wWoFMhswA3VeqHYevWuk"
+  }
+  
+,
+  { 
+    "_id": 72,
+    "nombre":"Avatar la Leyenda de Angg La Promesa Parte 1",
+    "imagen":"img/Libro72.png",
+    "enlace":"https://mega.nz/file/c14zBKAS#r_alS_J8rOBBOv2Vi4ywbXj3Ot0JOIbgCayemUgdghU"
+  }
+,
+  { 
+    "_id": 73,
+    "nombre":"Avatar la Leyenda de Angg La Promesa Parte 2",
+    "imagen":"img/Libro73.png",
+    "enlace":"https://mega.nz/file/okhGTBpA#kNw2LH3FMnZnHtijL1CiNyuBlSmlgfmxxzExDH1j_zw"
+  }
+,
+  { 
+    "_id": 74,
+    "nombre":"Avatar la Leyenda de Angg La Promesa Parte 3",
+    "imagen":"img/Libro74.png",
+    "enlace":"https://mega.nz/file/A4xFHLqS#Y1TG32-blIDgMSZ-sWx-XbTZ_-vBohVRV4z1Pw-FzbE"
+  }
+  
+,
+  { 
+    "_id": 75,
+    "nombre":"Avatar la Leyenda de Angg Katara y la Plata de la Pirata",
+    "imagen":"img/Libro75.png",
+    "enlace":"https://mega.nz/file/plxgGbKQ#eXXaKOt23iBidEdZSM7gNrqSLk2WsYocm_LgAcUuzv8"
+  }
+,
+  { 
+    "_id": 76,
+    "nombre":"Avatar la Leyenda de Angg Toph y su escuela de metal control",
+    "imagen":"img/Libro76.png",
+    "enlace":"https://mega.nz/file/Y0ZTBYwT#Eow5Xqd7QlfYxRiNaJTPtAy6Q-leBaJXp5gYE4SW35c"
+  }
+,
+  { 
+    "_id": 77,
+    "nombre":"Avatar la Leyenda de Angg Suki Sola",
+    "imagen":"img/Libro77.png",
+    "enlace":"https://mega.nz/file/J0IliLJA#koSBAmsHoGKJg_JNU0I1iRzgy6Tywfl0lJhXV79zPkk"
+  }
+  
+,
+  { 
+    "_id": 78,
+    "nombre":"Avatar la Leyenda de Angg Humo y Sombra Parte 1",
+    "imagen":"img/Libro78.png",
+    "enlace":"https://mega.nz/file/g5YikDqL#XnA2uXmhI9YLbFaarWSBRbO9tE3ZqVYSnZOmQHx2z9U"
+  }
+,
+  { 
+    "_id": 79,
+    "nombre":"Avatar la Leyenda de Angg Humo y Sombra Parte 2",
+    "imagen":"img/Libro79.png",
+    "enlace":"https://mega.nz/file/Nl43nJbA#SRkqj_No6WRjYQWujerYVza5QW4HuDzLtr_i5lDIBKM"
+  }
+,
+  { 
+    "_id": 80,
+    "nombre":"Avatar la Leyenda de Angg Humo y Sombra Parte 3",
+    "imagen":"img/Libro80.png",
+    "enlace":"https://mega.nz/file/k5ATCLxS#qVhqqFjQWUYsRv2vNVdIxYCCcnIToyNAe0WBmSfl-Sg"
+  }
+  /*
+,
+  { 
+    "_id": 40,
+    "nombre":"",
+    "imagen":"img/Libro25.png",
+    "enlace":""
+  }
+,
+  { 
+    "_id": 40,
+    "nombre":"",
+    "imagen":"img/Libro25.png",
+    "enlace":""
+  }
+,
+  { 
+    "_id": 40,
+    "nombre":"",
+    "imagen":"img/Libro25.png",
+    "enlace":""
+  }
+,
+  { 
+    "_id": 40,
+    "nombre":"",
+    "imagen":"img/Libro25.png",
+    "enlace":""
+  }
+
 */
 ]
