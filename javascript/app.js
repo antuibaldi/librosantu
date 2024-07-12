@@ -452,21 +452,21 @@ const databaselibrosJSON= [
 ,
   { 
     "_id": 63,
-    "nombre":"Avatar la Leyenda de Angg Desequilibrio 1",
+    "nombre":"Avatar la Leyenda de Aang Desequilibrio 1",
     "imagen":"img/Libro63.png",
     "enlace":"https://mega.nz/file/cw5HSbzB#LD7l_lHbZ5nSPjvdrm3zc9vxTXqQ-IEhNZAwRVJ11R0"
   }
 ,
   { 
     "_id": 64,
-    "nombre":"Avatar la Leyenda de Angg Desequilibrio 2",
+    "nombre":"Avatar la Leyenda de Aang Desequilibrio 2",
     "imagen":"img/Libro64.png",
     "enlace":"https://mega.nz/file/Y4oBBBQR#gKza-pYbMu7ougMb6LIuI1O8n-D76oijzsZ2aJxlp5o"
   }
 ,
   { 
     "_id": 65,
-    "nombre":"Avatar la Leyenda de Angg Desequilibrio 3",
+    "nombre":"Avatar la Leyenda de Aang Desequilibrio 3",
     "imagen":"img/Libro65.png",
     "enlace":"https://mega.nz/file/k1wXjDgY#YQiY6HkH9JE849GW6Me2K36lQdzKwfEUbvaSj5VW-1o"
   }
@@ -474,21 +474,21 @@ const databaselibrosJSON= [
 ,
   { 
     "_id": 66,
-    "nombre":"Avatar la Leyenda de Angg La Brecha Parte 1",
+    "nombre":"Avatar la Leyenda de Aang La Brecha Parte 1",
     "imagen":"img/Libro66.png",
     "enlace":"https://mega.nz/file/F1IBnQDT#dh6trCJpvIbpD4B-S24JF5ZT8EL0POzaMyvh7sRL04E"
   }
 ,
   { 
     "_id": 67,
-    "nombre":"Avatar la Leyenda de Angg La Brecha Parte 2",
+    "nombre":"Avatar la Leyenda de Aang La Brecha Parte 2",
     "imagen":"img/Libro67.png",
     "enlace":"https://mega.nz/file/o8pykDAT#ICy6bOjO_I56M6xmJuQ0599Xka7_rtXfnJ16kjOWVXM"
   }
 ,
   { 
     "_id": 68,
-    "nombre":"Avatar la Leyenda de Angg La Brecha Parte 3",
+    "nombre":"Avatar la Leyenda de Aang La Brecha Parte 3",
     "imagen":"img/Libro68.png",
     "enlace":"https://mega.nz/file/Z0QnhYhT#jGe0YCZsf-aOVloI4kSJy5OrkMI460kpoJMiaQ-L_tI"
   }
@@ -496,21 +496,21 @@ const databaselibrosJSON= [
 ,
   { 
     "_id": 69,
-    "nombre":"Avatar la Leyenda de Angg La Busqueda Parte 1",
+    "nombre":"Avatar la Leyenda de Aang La Busqueda Parte 1",
     "imagen":"img/Libro69.png",
     "enlace":"https://mega.nz/file/F5wi1bwL#7H115nlVQDqiRrGl2GRqfuNBU8zzOxQWnPv7NwaJhMI"
   }
 ,
   { 
     "_id": 70,
-    "nombre":"Avatar la Leyenda de Angg La Busqueda Parte 2",
+    "nombre":"Avatar la Leyenda de Aang La Busqueda Parte 2",
     "imagen":"img/Libro70.png",
     "enlace":"https://mega.nz/file/Ehg2zZ7D#c6ydnIIzIB8LG5ECRjitacY2y15GGjEpxcx-Jd9Yx54"
   }
 ,
   { 
     "_id": 71,
-    "nombre":"Avatar la Leyenda de Angg La Busqueda Parte 3",
+    "nombre":"Avatar la Leyenda de Aang La Busqueda Parte 3",
     "imagen":"img/Libro71.png",
     "enlace":"https://mega.nz/file/okpnXbyD#36ESzQd-N_Aa4N7QINUxaj4wWoFMhswA3VeqHYevWuk"
   }
@@ -518,21 +518,21 @@ const databaselibrosJSON= [
 ,
   { 
     "_id": 72,
-    "nombre":"Avatar la Leyenda de Angg La Promesa Parte 1",
+    "nombre":"Avatar la Leyenda de Aang La Promesa Parte 1",
     "imagen":"img/Libro72.png",
     "enlace":"https://mega.nz/file/c14zBKAS#r_alS_J8rOBBOv2Vi4ywbXj3Ot0JOIbgCayemUgdghU"
   }
 ,
   { 
     "_id": 73,
-    "nombre":"Avatar la Leyenda de Angg La Promesa Parte 2",
+    "nombre":"Avatar la Leyenda de Aang La Promesa Parte 2",
     "imagen":"img/Libro73.png",
     "enlace":"https://mega.nz/file/okhGTBpA#kNw2LH3FMnZnHtijL1CiNyuBlSmlgfmxxzExDH1j_zw"
   }
 ,
   { 
     "_id": 74,
-    "nombre":"Avatar la Leyenda de Angg La Promesa Parte 3",
+    "nombre":"Avatar la Leyenda de Aang La Promesa Parte 3",
     "imagen":"img/Libro74.png",
     "enlace":"https://mega.nz/file/A4xFHLqS#Y1TG32-blIDgMSZ-sWx-XbTZ_-vBohVRV4z1Pw-FzbE"
   }
@@ -540,21 +540,21 @@ const databaselibrosJSON= [
 ,
   { 
     "_id": 75,
-    "nombre":"Avatar la Leyenda de Angg Katara y la Plata de la Pirata",
+    "nombre":"Avatar la Leyenda de Aang Katara y la Plata de la Pirata",
     "imagen":"img/Libro75.png",
     "enlace":"https://mega.nz/file/plxgGbKQ#eXXaKOt23iBidEdZSM7gNrqSLk2WsYocm_LgAcUuzv8"
   }
 ,
   { 
     "_id": 76,
-    "nombre":"Avatar la Leyenda de Angg Toph y su escuela de metal control",
+    "nombre":"Avatar la Leyenda de Aang Toph y su escuela de metal control",
     "imagen":"img/Libro76.png",
     "enlace":"https://mega.nz/file/Y0ZTBYwT#Eow5Xqd7QlfYxRiNaJTPtAy6Q-leBaJXp5gYE4SW35c"
   }
 ,
   { 
     "_id": 77,
-    "nombre":"Avatar la Leyenda de Angg Suki Sola",
+    "nombre":"Avatar la Leyenda de Aang Suki Sola",
     "imagen":"img/Libro77.png",
     "enlace":"https://mega.nz/file/J0IliLJA#koSBAmsHoGKJg_JNU0I1iRzgy6Tywfl0lJhXV79zPkk"
   }
@@ -562,23 +562,132 @@ const databaselibrosJSON= [
 ,
   { 
     "_id": 78,
-    "nombre":"Avatar la Leyenda de Angg Humo y Sombra Parte 1",
+    "nombre":"Avatar la Leyenda de Aang Humo y Sombra Parte 1",
     "imagen":"img/Libro78.png",
     "enlace":"https://mega.nz/file/g5YikDqL#XnA2uXmhI9YLbFaarWSBRbO9tE3ZqVYSnZOmQHx2z9U"
   }
 ,
   { 
     "_id": 79,
-    "nombre":"Avatar la Leyenda de Angg Humo y Sombra Parte 2",
+    "nombre":"Avatar la Leyenda de Aang Humo y Sombra Parte 2",
     "imagen":"img/Libro79.png",
     "enlace":"https://mega.nz/file/Nl43nJbA#SRkqj_No6WRjYQWujerYVza5QW4HuDzLtr_i5lDIBKM"
   }
 ,
   { 
     "_id": 80,
-    "nombre":"Avatar la Leyenda de Angg Humo y Sombra Parte 3",
+    "nombre":"Avatar la Leyenda de Aang Humo y Sombra Parte 3",
     "imagen":"img/Libro80.png",
     "enlace":"https://mega.nz/file/k5ATCLxS#qVhqqFjQWUYsRv2vNVdIxYCCcnIToyNAe0WBmSfl-Sg"
+  }
+  
+,
+  { 
+    "_id": 81,
+    "nombre":"Avatar la Leyenda de Aang Norte y Sur Parte 1",
+    "imagen":"img/Libro81.png",
+    "enlace":"https://mega.nz/file/FpwDkbyD#EsNAV6GlzqgJ5IZGAyLtpUZQgRwgzI8orYV2IQREcQk"
+  }
+,
+  { 
+    "_id": 82,
+    "nombre":"Avatar la Leyenda de Aang Norte y Sur Parte 2",
+    "imagen":"img/Libro82.png",
+    "enlace":"https://mega.nz/file/wtIEWSIC#Wmp-J55nWsBbfcOO38hnHMzAUIljtO1h-PpgJWxC8ho"
+  }
+,
+  { 
+    "_id": 83,
+    "nombre":"Avatar la Leyenda de Aang Norte y Sur Parte 3",
+    "imagen":"img/Libro83.png",
+    "enlace":"https://mega.nz/file/o1ZzyQ6C#L3TBEinrcaDckKOaFjtlP3nf45pn2cxB_TsOw0dqgNI"
+  }
+  
+,
+  { 
+    "_id": 84,
+    "nombre":"Avatar la Leyenda de Aang Bumi VS Toph",
+    "imagen":"img/Libro84.png",
+    "enlace":"https://mega.nz/file/dlQQ2RSa#TadwEkUknoVBhXhK_bCTlLRMGVrW9gpIjk9c4FSsUtA"
+  }
+,
+  { 
+    "_id": 85,
+    "nombre":"Avatar la Leyenda de Aang Hombre Combustion sobre un Tren",
+    "imagen":"img/Libro85.png",
+    "enlace":"https://mega.nz/file/o5RwXTzY#ucRF20uxbXC7Ifa0Zj30oO4UHlBI0sQO9Jv9WgLwmDY"
+  }
+,
+  { 
+    "_id": 86,
+    "nombre":"Avatar la Leyenda de Aang Love Potion",
+    "imagen":"img/Libro86.png",
+    "enlace":"https://mega.nz/file/xsgwxLgA#qqm4Mlv5gdtzezybyok44H0BzEs8k8QoWxd0KRRHBWU"
+  }
+,
+  { 
+    "_id": 87,
+    "nombre":"Avatar la Leyenda de Aang Recuperacacion",
+    "imagen":"img/Libro87.png",
+    "enlace":"https://mega.nz/file/NsRjCQTR#UUd_1VV9Q51um-lEBT3YMTBkZkjmk5a6uzL7PtjWVBQ"
+  }
+,
+  { 
+    "_id": 88,
+    "nombre":"Avatar la Leyenda de Aang Sokka el Avatar",
+    "imagen":"img/Libro88.png",
+    "enlace":"https://mega.nz/file/wsxQzIKa#qp-uErmRxUyhGxblfAHOXGDdbhKXc39tz2tStlLVfRI"
+  }
+,
+  { 
+    "_id": 89,
+    "nombre":"Avatar la Leyenda de Aang Soldado Fuego 1,2,3 y 4",
+    "imagen":"img/Libro89.png",
+    "enlace":"https://mega.nz/file/tk5EkbQA#e9g98E0AB9Mw0BLUF-XZYbz1Kii7VYc4idtcMl2_07g"
+  }
+,
+  { 
+    "_id": 90,
+    "nombre":"Avatar la Leyenda de Aang The Lost Scrol Earth",
+    "imagen":"img/Libro90.png",
+    "enlace":"https://mega.nz/file/10R1xBzJ#rh1hOH3rizWARUUa20IJVzk7INvH6VBeP6cd0CQsgrI"
+  }
+,
+  { 
+    "_id": 91,
+    "nombre":"Avatar la Leyenda de Aang The Lost Scrol Fire",
+    "imagen":"img/Libro91.png",
+    "enlace":"https://mega.nz/file/klo1HSrL#g3zGtnf3pA9zbNhiWLubUKeYt4_o4xsVAZN1inUqUog"
+  }
+,
+  { 
+    "_id": 92,
+    "nombre":"Avatar la Leyenda de Aang The Lost Scrol Water",
+    "imagen":"img/Libro92.png",
+    "enlace":"https://mega.nz/file/gpowgSrQ#tlQmBluQlBmLQT3Sn2nDsJOckhAZwOTzfycFqFucw9I"
+  }
+,
+  { 
+    "_id": 93,
+    "nombre":"Avatar la Leyenda de Aang The Lost Scrol Air",
+    "imagen":"img/Libro93.png",
+    "enlace":"https://mega.nz/file/1sJSGbBJ#CiEM5_BT5nYVDG72r0JY5QwTQsIRu_rM3XuFqcWuHTA"
+  }
+  
+,
+  { 
+    "_id": 94,
+    "nombre":"Epicuro Obras Completas",
+    "imagen":"img/Libro94.png",
+    "enlace":"https://mega.nz/file/htogVa6R#00jSLqRbgFPmAAq3wQtJVkUp9Ti7X5z9kYJbCNZ-XWo"
+  }
+  
+,
+  { 
+    "_id": 95,
+    "nombre":"Dragon Ball tomo 1",
+    "imagen":"img/Libro95.png",
+    "enlace":"https://mega.nz/file/Q4YBHIgD#Vvh95LTGUHqTxKJdu2F63SUD_qwReEosdTtJ-Cng-Ek"
   }
   /*
 ,
@@ -609,6 +718,96 @@ const databaselibrosJSON= [
     "imagen":"img/Libro25.png",
     "enlace":""
   }
-
+,
+  { 
+    "_id": 40,
+    "nombre":"",
+    "imagen":"img/Libro25.png",
+    "enlace":""
+  }
+,
+  { 
+    "_id": 40,
+    "nombre":"",
+    "imagen":"img/Libro25.png",
+    "enlace":""
+  }
+,
+  { 
+    "_id": 40,
+    "nombre":"",
+    "imagen":"img/Libro25.png",
+    "enlace":""
+  }
+,
+  { 
+    "_id": 40,
+    "nombre":"",
+    "imagen":"img/Libro25.png",
+    "enlace":""
+  }
+,
+  { 
+    "_id": 40,
+    "nombre":"",
+    "imagen":"img/Libro25.png",
+    "enlace":""
+  }
+,
+  { 
+    "_id": 40,
+    "nombre":"",
+    "imagen":"img/Libro25.png",
+    "enlace":""
+  }
+,
+  { 
+    "_id": 40,
+    "nombre":"",
+    "imagen":"img/Libro25.png",
+    "enlace":""
+  }
+,
+  { 
+    "_id": 40,
+    "nombre":"",
+    "imagen":"img/Libro25.png",
+    "enlace":""
+  }
+,
+  { 
+    "_id": 40,
+    "nombre":"",
+    "imagen":"img/Libro25.png",
+    "enlace":""
+  }
+,
+  { 
+    "_id": 40,
+    "nombre":"",
+    "imagen":"img/Libro25.png",
+    "enlace":""
+  }
+,
+  { 
+    "_id": 40,
+    "nombre":"",
+    "imagen":"img/Libro25.png",
+    "enlace":""
+  }
+,
+  { 
+    "_id": 40,
+    "nombre":"",
+    "imagen":"img/Libro25.png",
+    "enlace":""
+  }
+,
+  { 
+    "_id": 40,
+    "nombre":"",
+    "imagen":"img/Libro25.png",
+    "enlace":""
+  }
 */
 ]
