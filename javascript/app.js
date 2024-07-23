@@ -689,77 +689,79 @@ const databaselibrosJSON= [
     "imagen":"img/Libro95.png",
     "enlace":"https://mega.nz/file/Q4YBHIgD#Vvh95LTGUHqTxKJdu2F63SUD_qwReEosdTtJ-Cng-Ek"
   }
+  
+,
+  { 
+    "_id": 96,
+    "nombre":"Avatar la Leyenda de Korra Amigas de Por Vida",
+    "imagen":"img/Libro96.png",
+    "enlace":"https://mega.nz/file/5pIGTbZR#d9_zAhC7PS44a5xYNTg3m5HMrAfACC4f7GJ3fexQPo4"
+  }
+,
+  { 
+    "_id": 97,
+    "nombre":"Avatar la Leyenda de Korra Mascotas Perdidas",
+    "imagen":"img/Libro97.png",
+    "enlace":"https://mega.nz/file/Bgp0HALS#FeTeiB9HggkDmTS8z0a1IyBvJj8gKiAfHxlILdmI2_8"
+  }
+,
+  { 
+    "_id": 98,
+    "nombre":"Avatar la Leyenda de Korra Limpiando El Aire",
+    "imagen":"img/Libro98.png",
+    "enlace":"https://mega.nz/file/9xpgERAJ#U7siCRvgPpdDy-2h9F04Ck1rduXW3Hz860_d9Z5Gl6Q"
+  }
+,
+  { 
+    "_id": 99,
+    "nombre":"Avatar la Leyenda de Korra Guerras de Playa",
+    "imagen":"img/Libro99.png",
+    "enlace":"https://mega.nz/file/t0JQwTDb#DDSB2NixymQFOq2lIOOV64LaVt2x53b7arqhSOmsoEw"
+  }
+  
+,
+  { 
+    "_id": 100,
+    "nombre":"Avatar la Leyenda de Korra Guerras Territoriales PARTE 1",
+    "imagen":"img/Libro100.png",
+    "enlace":"https://mega.nz/file/gsZxzSZD#vx74fOh9L5t_fTMV-5hOCzjne7Cv79mCwpWPaE4mfKI"
+  }
+,
+  { 
+    "_id": 101,
+    "nombre":"Avatar la Leyenda de Korra Guerras Territoriales PARTE 2",
+    "imagen":"img/Libro101.png",
+    "enlace":"https://mega.nz/file/I1AS2ZRZ#OGGO95K6zzlwNCA8jLzTUXg16nf24hCnobQ-d-AvrEA"
+  }
+,
+  { 
+    "_id": 102,
+    "nombre":"Avatar la Leyenda de Korra Guerras Territoriales PARTE 3",
+    "imagen":"img/Libro102.png",
+    "enlace":"https://mega.nz/file/ssxh2IwS#NudUJttjKNbtAu0R1beQHReXIxxNb2VunsXmpREAYqE"
+  }
+,
+  { 
+    "_id": 103,
+    "nombre":"Avatar la Leyenda de Korra Ruinas del Imperio Parte 1",
+    "imagen":"img/Libro103.png",
+    "enlace":"https://mega.nz/file/t5QkBaZb#mCuJVI_rzZu4WiXSqCot3LpBp_CLh2Tb3qCibOgiJp8"
+  }
+,
+  { 
+    "_id": 104,
+    "nombre":"Avatar la Leyenda de Korra Ruinas del Imperio Parte 2",
+    "imagen":"img/Libro104.png",
+    "enlace":"https://mega.nz/file/Bg4m3bCL#CR_mX4d_5WeqRWxL_Bijm4Oi1puckiw3cFpVktEGnig"
+  }
+,
+  { 
+    "_id": 105,
+    "nombre":"Avatar la Leyenda de Korra Ruinas del Imperio Parte 3",
+    "imagen":"img/Libro105.png",
+    "enlace":"https://mega.nz/file/8lYziT5R#Adlnj5j1th8b-ds-OhpytoOjvBsNOZDukCyJkUR4DBU"
+  }
   /*
-,
-  { 
-    "_id": 40,
-    "nombre":"",
-    "imagen":"img/Libro25.png",
-    "enlace":""
-  }
-,
-  { 
-    "_id": 40,
-    "nombre":"",
-    "imagen":"img/Libro25.png",
-    "enlace":""
-  }
-,
-  { 
-    "_id": 40,
-    "nombre":"",
-    "imagen":"img/Libro25.png",
-    "enlace":""
-  }
-,
-  { 
-    "_id": 40,
-    "nombre":"",
-    "imagen":"img/Libro25.png",
-    "enlace":""
-  }
-,
-  { 
-    "_id": 40,
-    "nombre":"",
-    "imagen":"img/Libro25.png",
-    "enlace":""
-  }
-,
-  { 
-    "_id": 40,
-    "nombre":"",
-    "imagen":"img/Libro25.png",
-    "enlace":""
-  }
-,
-  { 
-    "_id": 40,
-    "nombre":"",
-    "imagen":"img/Libro25.png",
-    "enlace":""
-  }
-,
-  { 
-    "_id": 40,
-    "nombre":"",
-    "imagen":"img/Libro25.png",
-    "enlace":""
-  }
-,
-  { 
-    "_id": 40,
-    "nombre":"",
-    "imagen":"img/Libro25.png",
-    "enlace":""
-  }
-,
-  { 
-    "_id": 40,
-    "nombre":"",
-    "imagen":"img/Libro25.png",
-    "enlace":""
-  }
 ,
   { 
     "_id": 40,
