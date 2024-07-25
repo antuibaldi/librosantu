@@ -761,49 +761,51 @@ const databaselibrosJSON= [
     "imagen":"img/Libro105.png",
     "enlace":"https://mega.nz/file/8lYziT5R#Adlnj5j1th8b-ds-OhpytoOjvBsNOZDukCyJkUR4DBU"
   }
-  /*
+  
 ,
   { 
-    "_id": 40,
-    "nombre":"",
-    "imagen":"img/Libro25.png",
-    "enlace":""
+    "_id": 106,
+    "nombre":"Avatar la Leyenda de Aang Azula en el Templo",
+    "imagen":"img/Libro106.png",
+    "enlace":"https://mega.nz/file/w5RSxSyS#XjUEkZUKaRUngiQUTugNHEATCQSN2i7kzuEg2qFX6oM"
+  }
+  
+,
+  { 
+    "_id": 107,
+    "nombre":"Avatar la Leyenda de Aang Libro de Kyoshi 1",
+    "imagen":"img/Libro107.png",
+    "enlace":"https://mega.nz/file/wp4ihbRA#cvQRuUqaQ_mHgOhz6_v8UuFzf73y4F3DpI8P2s9kfBk"
   }
 ,
   { 
-    "_id": 40,
-    "nombre":"",
-    "imagen":"img/Libro25.png",
-    "enlace":""
+    "_id": 108,
+    "nombre":"Avatar la Leyenda de Aang Libro de Kyoshi 2",
+    "imagen":"img/Libro108.png",
+    "enlace":"https://mega.nz/file/Jxxl1IAZ#g90EH4CjlTQHbYdXT15-p2H7GXjIqVAm210FeRxxkuQ"
   }
 ,
   { 
-    "_id": 40,
-    "nombre":"",
-    "imagen":"img/Libro25.png",
-    "enlace":""
+    "_id": 109,
+    "nombre":"Avatar la Leyenda de Aang Libro Yang Chen 1",
+    "imagen":"img/Libro109.png",
+    "enlace":"https://mega.nz/file/Vt5mhAaD#o7qHUFAqnbuFcBFEcp0eJf7nlHguZ5AzTztC_re4sSY"
   }
 ,
   { 
-    "_id": 40,
-    "nombre":"",
-    "imagen":"img/Libro25.png",
-    "enlace":""
+    "_id": 110,
+    "nombre":"Avatar la Leyenda de Aang Libro Yang Chen 2",
+    "imagen":"img/Libro110.png",
+    "enlace":"https://mega.nz/file/hhxWRQJI#O1liZDBfqS8ldujeOISj6F-G3DRWxtdFP5ZORKDmTjA"
   }
 ,
   { 
-    "_id": 40,
-    "nombre":"",
-    "imagen":"img/Libro25.png",
-    "enlace":""
+    "_id": 111,
+    "nombre":"Avatar la Leyenda de Aang El Legado",
+    "imagen":"img/Libro111.png",
+    "enlace":"https://mega.nz/file/th43RboQ#6cPIcvZsDPvgOFT0dfXatjG-KcNXT-pADfeDJzo5k8U"
   }
-,
-  { 
-    "_id": 40,
-    "nombre":"",
-    "imagen":"img/Libro25.png",
-    "enlace":""
-  }
+    /*
 ,
   { 
     "_id": 40,
